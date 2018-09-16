@@ -1,0 +1,15 @@
+.product-wrapper {
+    max-width:800px; 
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+img {
+    display: block;
+    width: 400px;
+}
